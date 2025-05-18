@@ -28,7 +28,7 @@ In this project, I set up a three-tier web app.
 - Granting Lambda the access to read from DynamoDB
 - Integrating the presentation, logic, and data tiers
 - Troubleshooting errors from the browser's developer tool
-- CORS
+- Cross-origin resource sharing (CORS)
 
 ### Architecture Diagram
 
